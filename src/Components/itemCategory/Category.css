@@ -1,0 +1,25 @@
+h3{
+    text-align:left;
+}
+
+a:link, a:visited {
+    
+    color: black;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    border-radius: 0px;
+    font-weight: bold;
+
+  }
+  a:hover, a:active {
+    background-color:teal;
+    color:white;
+    font-weight:500;
+  }
+  .btn{
+    font-weight: 500;
+  }
+  
+  

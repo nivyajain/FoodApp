@@ -1,0 +1,11 @@
+.data{
+    text-align: left;
+}
+
+.price{
+  color: rgb(206, 142, 23);
+}
+img{
+  border-radius: 10%;
+  margin-left: 12px;
+}
